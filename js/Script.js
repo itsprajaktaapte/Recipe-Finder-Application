@@ -1,4 +1,4 @@
-const apiKey = '6c22f746f2bd4039a6ac4bf158961e1a'; 
+const apiKey = 'your api key'; 
 
 document.getElementById('search').addEventListener('keyup', function (e) {
     if (e.key === 'Enter') {
